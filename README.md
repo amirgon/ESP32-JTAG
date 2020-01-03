@@ -15,11 +15,13 @@ I'm using a 7$ [CJMCU FT232H](https://www.aliexpress.com/item/32814913865.html) 
 
 ## FTDI Hardware connection
 
+```
 GPIO13 — AD0 (TCK) Purple
 GPIO12 — AD1 (TDI) Blue
 GPIO15 — AD2 (TDO) Green
 GPIO14 — AD3 (TMS) Yellow
 GND — GND
+```
 
 ## Usage
 
