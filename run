@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# sudo openocd-esp32/src/openocd -f ft232h.cfg --search openocd-esp32/tcl &
+# xtensa-esp32-elf-gdb -ex 'target remote localhost:3333' $1 || true
+# sudo pkill openocd
+
+sudo openocd-esp32/src/openocd -f ft232h.cfg --search openocd-esp32/tcl
