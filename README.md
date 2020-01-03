@@ -11,7 +11,7 @@
 
 I'm using a 7$ [CJMCU FT232H](https://www.aliexpress.com/item/32814913865.html) from AliExpress.
 
-![Image of CJMCU FT232H](https://images.app.goo.gl/BoWsuoFiDK1ZbBRa6)
+![Image of CJMCU FT232H](https://ae01.alicdn.com/kf/HTB1u03laYwTMeJjSszfq6xbtFXaA.jpg)
 
 ## FTDI Hardware connection
 
